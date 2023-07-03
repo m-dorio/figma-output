@@ -62,11 +62,12 @@ nav a {
 	line-height: normal;
 }
 
-div .carousel-item {
+/* REMOVED FOR NOW */
+/* div .carousel-item {
 	background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 	width: 830px;
 	height: 401px;
-}
+} */
 
 
 /* MIKE/Arian GALLERY*/
@@ -132,6 +133,7 @@ div .carousel-item {
 	font-weight: 400;
 	line-height: normal;
 }
+
 /* MIKE/Arian GALLERY*/
 
 
